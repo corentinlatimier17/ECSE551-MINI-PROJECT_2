@@ -1,0 +1,111 @@
+
+Fold : 1
+Class distribution within training dataset :
+Proportion of class Brussels : 25.873015873015877 %
+Proportion of class London : 24.841269841269842 %
+Proportion of class Montreal : 24.841269841269842 %
+Proportion of class Toronto : 24.444444444444443 %
+
+ Accuracy = 0.6474820143884892
+
+ Accuracies per class [0.54166667 0.75675676 0.56756757 0.68292683]
+
+Fold : 2
+Class distribution within training dataset :
+Proportion of class Brussels : 24.126984126984127 %
+Proportion of class London : 26.031746031746035 %
+Proportion of class Montreal : 25.0 %
+Proportion of class Toronto : 24.841269841269842 %
+
+ Accuracy = 0.7266187050359713
+
+ Accuracies per class [0.91304348 0.86363636 0.42857143 0.69444444]
+
+Fold : 3
+Class distribution within training dataset :
+Proportion of class Brussels : 25.179856115107913 %
+Proportion of class London : 21.223021582733814 %
+Proportion of class Montreal : 25.899280575539567 %
+Proportion of class Toronto : 27.697841726618705 %
+
+ Accuracy = 0.47368421052631576
+
+ Accuracies per class [0.46071429 0.0790378  0.43165468 0.95220588]
+
+Fold : 4
+Class distribution within training dataset :
+Proportion of class Brussels : 26.139088729016784 %
+Proportion of class London : 22.062350119904075 %
+Proportion of class Montreal : 23.741007194244602 %
+Proportion of class Toronto : 28.05755395683453 %
+
+ Accuracy = 0.5468431771894093
+
+ Accuracies per class [0.80497925 0.13953488 0.44223108 0.84482759]
+
+Fold : 5
+Class distribution within training dataset :
+Proportion of class Brussels : 25.539568345323744 %
+Proportion of class London : 24.640287769784173 %
+Proportion of class Montreal : 22.48201438848921 %
+Proportion of class Toronto : 27.33812949640288 %
+
+ Accuracy = 0.6465005931198102
+
+ Accuracies per class [0.76442308 0.60093897 0.43555556 0.81218274]
+
+Fold : 6
+Class distribution within training dataset :
+Proportion of class Brussels : 25.323741007194243 %
+Proportion of class London : 24.60431654676259 %
+Proportion of class Montreal : 22.73381294964029 %
+Proportion of class Toronto : 27.33812949640288 %
+
+ Accuracy = 0.6590909090909091
+
+ Accuracies per class [0.79310345 0.65363128 0.40625    0.82389937]
+
+Fold : 7
+Class distribution within training dataset :
+Proportion of class Brussels : 24.940047961630697 %
+Proportion of class London : 23.980815347721823 %
+Proportion of class Montreal : 24.34052757793765 %
+Proportion of class Toronto : 26.73860911270983 %
+
+ Accuracy = 0.6584070796460177
+
+ Accuracies per class [0.76760563 0.68       0.39455782 0.81746032]
+
+Fold : 8
+Class distribution within training dataset :
+Proportion of class Brussels : 25.38540596094553 %
+Proportion of class London : 24.46043165467626 %
+Proportion of class Montreal : 23.94655704008222 %
+Proportion of class Toronto : 26.20760534429599 %
+
+ Accuracy = 0.676056338028169
+
+ Accuracies per class [0.81553398 0.66964286 0.42735043 0.84042553]
+
+Fold : 9
+Class distribution within training dataset :
+Proportion of class Brussels : 25.6294964028777 %
+Proportion of class London : 24.370503597122305 %
+Proportion of class Montreal : 24.550359712230215 %
+Proportion of class Toronto : 25.449640287769785 %
+
+ Accuracy = 0.6689895470383276
+
+ Accuracies per class [0.81538462 0.64556962 0.42857143 0.83333333]
+
+Fold : 10
+Class distribution within training dataset :
+Proportion of class Brussels : 25.01998401278977 %
+Proportion of class London : 24.22062350119904 %
+Proportion of class Montreal : 25.259792166266987 %
+Proportion of class Toronto : 25.499600319744204 %
+
+ Accuracy = 0.6959459459459459
+
+ Accuracies per class [0.91891892 0.61702128 0.38235294 0.9       ]
+(np.float64(0.6399618520009365), np.float64(0.07064973094947756), np.float64(0.887668722165125), array([0.75953734, 0.57057698, 0.43446629, 0.8201706 ]))
