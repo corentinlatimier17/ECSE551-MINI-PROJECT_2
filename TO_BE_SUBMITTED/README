@@ -1,0 +1,36 @@
+# Subreddit Prediction Project
+
+This project implements various machine learning models to classify text data from a subreddit prediction dataset. The models were developed and evaluated using different feature extraction techniques, hyperparameter tuning, and cross-validation strategies.
+
+## Overview of Models
+
+The project consists of seven models, implemented in separate Jupyter notebooks. Each notebook focuses on specific models and methods for subreddit prediction:
+
+1. **Models 1 and 2**:  
+   Implemented in `models1_2_BernoulliNaiveBayes.ipynb`, these models are based on **Bernoulli Naive Bayes** classification with different feature extraction techniques and configurations.
+
+2. **Model 3**:  
+   Provided in `model3_SVM.ipynb`, this notebook implements a **Support Vector Machines (SVM)** classifier, using hyperparameter tuning and 10-fold cross-validation for evaluation.
+
+3. **Model 4**:  
+   Available in `model4_stacking.ipynb`, this notebook showcases a **stacking ensemble model** that combines predictions from multiple base models to improve overall performance.
+
+4. **Models 5, 6, and 7**:  
+   Implemented in `Mini Project 2_MNB, LR, CB.ipynb`, these models include:
+   - **Multinomial Naive Bayes** (MNB)
+   - **Logistic Regression** (LR)
+   - **CatBoost** (CB) classifier
+
+## Requirements
+
+The project uses Python and the following libraries:
+- `numpy`
+- `pandas`
+- `scikit-learn`
+- `matplotlib`
+- `seaborn`
+- `CatBoost`
+
+Install the required packages using:
+```bash
+pip install -r requirements.txt
