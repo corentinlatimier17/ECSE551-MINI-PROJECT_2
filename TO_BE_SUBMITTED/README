@@ -30,7 +30,3 @@ The project uses Python and the following libraries:
 - `matplotlib`
 - `seaborn`
 - `CatBoost`
-
-Install the required packages using:
-```bash
-pip install -r requirements.txt
